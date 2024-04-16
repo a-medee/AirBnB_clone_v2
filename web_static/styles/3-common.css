@@ -1,8 +1,12 @@
 body {
-	margin:0px;
-	padding:0px;
+  margin: 0;
+  padding: 0;
+  font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #484848;
+}
 
-	color: #484848;
-	font-size: 14px;
-	font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+/* Favicon */
+link[rel="shortcut icon"] {
+  href: "images/icon.png";
 }
